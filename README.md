@@ -27,20 +27,16 @@ New School Summary without 9th Grade Thomas High School Data:
 ![New_School_Summary](/Resources/new_school_summary.png)
 
 #### How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
-Since we replaced all of the 9th grade scores from Thomas High School with 0, NaN appears for the average score for Thomas High School when we pull the averages for math and reading scores based on grade.
+* Math and reading scores by grade : /n Since we replaced all of the 9th grade scores from Thomas High School with 0, NaN appears for the average score for Thomas High School when we pull the averages for math and reading scores based on grade.
 
 Math Scores by Grade without 9th Grade Thomas High School Data:
 ![New_Math_Scores_By_Grade](/Resources/new_math_scores_by_grade.png)
 Reading Scores by Grade without 9th Grade Thomas High School Data:
-![New_Reading_Scores_By_Grade](/Resources/new_grading_scores_by_grade.png)
+![New_Reading_Scores_By_Grade](/Resources/new_reading_scores_by_grade.png)
 
-* Scores by school spending
-The scores by school spending did not change when we removed the 9th grade data from Thomas High School.
-* Scores by school size
-The scores by school size did not change when we removed the 9th grade data from Thomas High School.
-* Scores by school type
-The scores by school type did not change when we removed the 9th grade data from Thomas High School.
+* Scores by school spending : /n The scores by school spending did not change when we removed the 9th grade data from Thomas High School.
+* Scores by school size : /n The scores by school size did not change when we removed the 9th grade data from Thomas High School.
+* Scores by school type : /n The scores by school type did not change when we removed the 9th grade data from Thomas High School.
 
 ### Conclusion
 Based on the data, it is not evident that the students in the 9th Grade Class from Thomas High School were acting with academic dishonesty as the data does not significantly support this claim. 
