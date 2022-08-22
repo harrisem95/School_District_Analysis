@@ -40,4 +40,7 @@ The scores by school spending did not change when we removed the 9th grade data 
 * Scores by school size
 The scores by school size did not change when we removed the 9th grade data from Thomas High School.
 * Scores by school type
+The scores by school type did not change when we removed the 9th grade data from Thomas High School.
 
+### Conclusion
+Based on the data, it is not evident that the students in the 9th Grade Class from Thomas High School were acting with academic dishonesty as the data does not significantly support this claim. 
