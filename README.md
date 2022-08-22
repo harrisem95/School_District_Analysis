@@ -27,7 +27,7 @@ New School Summary without 9th Grade Thomas High School Data:
 ![New_School_Summary](/Resources/new_school_summary.png)
 
 #### How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade : /n Since we replaced all of the 9th grade scores from Thomas High School with 0, NaN appears for the average score for Thomas High School when we pull the averages for math and reading scores based on grade.
+* Math and reading scores by grade : <br /> Since we replaced all of the 9th grade scores from Thomas High School with 0, NaN appears for the average score for Thomas High School when we pull the averages for math and reading scores based on grade.
 
 Math Scores by Grade without 9th Grade Thomas High School Data: <br />
 ![New_Math_Scores_By_Grade](/Resources/new_math_scores_by_grade.png) <br />
